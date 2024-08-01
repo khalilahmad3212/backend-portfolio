@@ -2,9 +2,10 @@ import { StaticImageData } from 'next/image';
 import project1 from '../assets/projects/project-1.png';
 import project2 from '../assets/projects/project-2.png';
 import project3 from '../assets/projects/insure-landing-page.png';
-import project4 from '../assets/projects/social-proof-section.png';
+// import project4 from '../assets/projects/social-proof-section.png';
 import project5 from '../assets/projects/sibau-client.webp';
 import project6 from '../assets/projects/dashboard.webp';
+
 interface Project {
   title: string
   description: string
@@ -28,7 +29,7 @@ const projectsData: Project[] =
     {
       title: "Project 3",
       description: "This is a project 3",
-      img: project4,
+      img: project1,
       link: "https://www.google.com"
     },
     {
