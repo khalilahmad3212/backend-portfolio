@@ -35,7 +35,7 @@ function About() {
           </div>
           <div className="w-full md:max-w-96 text-center">
             <h2 className="text-3xl">Who am I?</h2>
-            <p className="opacity-70">I'am Backend Developer who loved to develop the robust, scalable and maintainable systems</p>
+            <p className="opacity-70">I&apos;am Backend Developer who loved to develop the robust, scalable and maintainable systems</p>
           </div>
         </div>
         <div className="flex-1 px-10">
